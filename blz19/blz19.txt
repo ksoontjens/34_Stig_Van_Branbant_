@@ -1,0 +1,14 @@
+/**
+* deze klasse is een java programma
+* @author Marijn Brosens
+* @version 1.0
+*/
+
+import java.lang.*;
+
+public class Oef1{
+	public static void main(String args[])
+		{
+			System.out.println(~10);
+		}
+}
